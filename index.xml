@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Air</title>
+    <link>https://SnmallPudge.github.io/</link>
+    <description>Recent content on Air</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Mon, 06 Dec 2021 19:01:55 +0800</lastBuildDate><atom:link href="https://SnmallPudge.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://SnmallPudge.github.io/post/2021/12/06/hello-world/</link>
+      <pubDate>Mon, 06 Dec 2021 19:01:55 +0800</pubDate>
+      
+      <guid>https://SnmallPudge.github.io/post/2021/12/06/hello-world/</guid>
+      <description>睁眼看世界</description>
+    </item>
+    
+    <item>
+      <title>人体姿态</title>
+      <link>https://SnmallPudge.github.io/post/2021/12/06/test/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://SnmallPudge.github.io/post/2021/12/06/test/</guid>
+      <description>现有的多视点多人三维姿态估计方法都是通过建立交叉视点对应来从多个摄像机视图检测二维姿态，并求解每个人的三维姿态估计。在多人场景中建立交叉视图对应是一个挑战，不正确的对应将导致多级流水线的次优性能。在本文中，我们提出了一种基于平面扫描立体的多视点三维姿态估计方法，以便在一个镜头中联合处理交叉视点融合和三维姿态重建问题。具体来说，我们建议在目标摄像机视图中对每个 2D 姿态的每个关节进行深度回归。通过平面扫描算法，多参考摄像机视图隐式地加强了交叉视图的一致性约束，以促进精确的深度回归。我们采用由粗到细的方案，首先回归人的水平深度，然后进行人的联合水平相对深度估计。根据估计的深度，通过简单的反投影得到三维姿态。我们在基准数据集上评估我们的方法，在这些数据集上，我们的方法表现优于以前的技术状态，同时也非常高效。
+ 一种新的自下而上的人体姿态估计方法，用于高分辨率特征金字塔学习尺度感知表示。
+ https://gohugo.io/documentation/</description>
+    </item>
+    
+    <item>
+      <title>Direction</title>
+      <link>https://SnmallPudge.github.io/post/1/01/01/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SnmallPudge.github.io/post/1/01/01/test/</guid>
+      <description>echo &amp;#34;Human Pose Estimation&amp;#34; </description>
+    </item>
+    
+  </channel>
+</rss>
